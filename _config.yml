@@ -1,0 +1,28 @@
+name: Passion for Sales Management
+favicon: null
+layout_spectrum: 0.8470256447326392
+typography_spectrum: 0.9608437544666231
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.010340349981561303
+  lightness: 0.5178587196860462
+  saturation: 0.8885236866772175
+  rhythmicContrast: 0.14521017647348344
+purpose: []
