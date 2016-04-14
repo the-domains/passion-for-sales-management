@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-14T06:00:22.279Z'
-dateModified: '2016-04-14T05:59:55.857Z'
+datePublished: '2016-04-14T06:24:35.547Z'
+dateModified: '2016-04-14T06:24:30.678Z'
 title: Why a too strong alignment of marketing- and sales departments could hurt the company
 author: []
 authors: []
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 **Why a too strong alignment of marketing- and sales departments could hurt the company**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73175667-43d3-4511-83c8-c82e4cd87967.jpg)
 
 A lot has been written about the integration of marketing- and sales functions, but there seems to be no consensus about what works best. From what I have seen in various blog posts most of them argue for tighter integration between the two (similar levels) or that sales should align with the marketing strategy of the firm (different levels). I respectfully disagree with both. 
 
@@ -31,8 +32,6 @@ In much of the strategy and leadership research there has in a long time been a 
 My experience in more than 20 years of selling and later as a sales researcher I argue here for a mixed integration where they should be both aligned and separated. 
 
 **Why separated?**
-
-__
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eeccadfd-32ab-4da9-91ee-1e6fe0e7ab72.jpg)
 
 _Based on academic research there seems to be evidence for such an approach (Homburg and Jensen, 2007)._
