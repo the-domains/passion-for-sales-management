@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-13T12:09:41.664Z'
-dateModified: '2016-04-13T12:04:56.269Z'
+datePublished: '2016-04-14T06:00:22.279Z'
+dateModified: '2016-04-14T05:59:55.857Z'
 title: Why a too strong alignment of marketing- and sales departments could hurt the company
 author: []
 authors: []
@@ -31,9 +31,13 @@ In much of the strategy and leadership research there has in a long time been a 
 My experience in more than 20 years of selling and later as a sales researcher I argue here for a mixed integration where they should be both aligned and separated. 
 
 **Why separated?**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e1006a3-80da-40c8-9472-9444e0572744.jpg)
 
-Based on academic research there seems to be evidence for such an approach (Homburg and Jensen, 2007). Marketing departments is known for having a long-term orientation and product focus, whereas sales departments have a short-term orientation and a strong customer focus (sometimes to the degree that salespeople experience conflicting views about where their loyalty should lie -- the firm or the customer).
+__
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eeccadfd-32ab-4da9-91ee-1e6fe0e7ab72.jpg)
+
+_Based on academic research there seems to be evidence for such an approach (Homburg and Jensen, 2007)._
+
+Marketing departments is known for having a long-term orientation and product focus, whereas sales departments have a short-term orientation and a strong customer focus (sometimes to the degree that salespeople experience conflicting views about where their loyalty should lie -- the firm or the customer).
 These perspectives are also some of the strengths of the two departments. By having an orientation towards the product/service and how it should be developed the marketing department can keep a long-term focus towards how the business will develop in the future. Likewise, for sales by having a focus on the customer and their needs, often in a turbulent marketplace, they can quickly adapt to these needs. So by having a strong focus on their respective orientations, they will focus on both the short-term needs of the firm (next quarters sales), and the long-term needs (adjustments to changing market). 
 
 **Why aligned?**
@@ -41,7 +45,7 @@ These perspectives are also some of the strengths of the two departments. By hav
 The alignment should come from the strategy of the firm (or the SBU strategy). This strategy lays the foundation for why and how the firm is in the business. So the alignment should be on the knowledge about the market and product/service offered, together with interpersonal skills.
 The figure below illustrates this relationship.
 
-**Product- and market knowledge** 
+**Product- and market knowledge**
 
 If the two departments have different views on who the competitor and customer should be this would lead to a misalignment of the short- and long-term goals of the departments and it might hurt both immediate and long-term performance. Although they might have different roles when it comes to providing input when it comes to product- and market knowledge, their understanding of this knowledge should be aligned.
 Marketing often uses market reports, and market analysis to gather knowledge about the market. Information that help marketing in developing trends regarding the how the market will develop. Sales, through their intimate relation with the customer, can offer feedback regarding immediate problems with the product/service and the advancements of the firm's competitors. Both are necessary in developing a thoroughly understanding of the market and what kind of impact it should have on the firm's product/services. 
