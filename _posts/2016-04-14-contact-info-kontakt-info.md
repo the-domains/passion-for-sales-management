@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Contact info / Kontakt info
-datePublished: '2016-04-14T07:09:48.094Z'
-dateModified: '2016-04-14T07:09:40.391Z'
+datePublished: '2016-04-14T19:25:11.345Z'
+dateModified: '2016-04-14T19:25:10.900Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-contact-info-kontakt-info.md
