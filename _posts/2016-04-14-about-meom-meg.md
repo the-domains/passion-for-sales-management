@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: About me/om meg
-datePublished: '2016-04-14T06:50:59.857Z'
-dateModified: '2016-04-14T06:50:24.863Z'
-title: ''
+datePublished: '2016-04-14T19:25:02.937Z'
+dateModified: '2016-04-14T19:25:02.281Z'
+title: About me / Om meg
 author: []
+sourcePath: _posts/2016-04-14-about-meom-meg.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-14-about-meom-meg.md
-published: true
 url: about-meom-meg/index.html
 _type: Article
 
