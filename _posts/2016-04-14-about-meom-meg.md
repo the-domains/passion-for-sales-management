@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: About me/om meg
-datePublished: '2016-04-26T05:56:59.194Z'
-dateModified: '2016-04-26T05:56:45.274Z'
+datePublished: '2016-04-26T05:59:55.789Z'
+dateModified: '2016-04-26T05:59:55.179Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-about-meom-meg.md
