@@ -3,12 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: About me/om meg
-datePublished: '2016-04-14T19:25:02.937Z'
-dateModified: '2016-04-14T19:25:02.281Z'
-title: About me / Om meg
+datePublished: '2016-04-26T05:56:59.194Z'
+dateModified: '2016-04-26T05:56:45.274Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-14-about-meom-meg.md
 published: true
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: about-meom-meg/index.html
 _type: Article
 
