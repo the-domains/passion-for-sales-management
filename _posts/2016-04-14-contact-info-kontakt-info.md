@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: Contact info / Kontakt info
-datePublished: '2016-04-26T05:59:43.163Z'
-dateModified: '2016-04-26T05:59:42.684Z'
+datePublished: '2016-05-02T11:28:11.103Z'
+dateModified: '2016-05-02T11:28:10.787Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-contact-info-kontakt-info.md
@@ -19,7 +19,7 @@ publisher:
   favicon: null
 starred: false
 url: contact-info-kontakt-info/index.html
-_type: WebPage
+_type: Article
 
 ---
 Contact info / Kontakt info
