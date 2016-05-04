@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Contact info / Kontakt info
-datePublished: '2016-05-04T07:20:42.121Z'
-dateModified: '2016-05-04T07:20:38.572Z'
+description: 'This page is my private page on my research interests within the field of sales management. I am employed at an Norwegian business school, where I do research on and teach sales management topics. '
+datePublished: '2016-05-04T07:28:15.644Z'
+dateModified: '2016-05-04T07:28:12.240Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-contact-info-kontakt-info.md
@@ -22,11 +22,16 @@ url: contact-info-kontakt-info/index.html
 _type: Article
 
 ---
-Contact info / Kontakt info
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b61788f-a272-4772-90b8-1ce1d758014e.jpg)
+This page is my private page on my research interests within the field of sales management. I am employed at an Norwegian business school, where I do research on and teach sales management topics. 
+
+You can read more about me [here][0], and my contact info can be found below.
+
+Contact info / Kontakt info:
 
 Erik Mehl
 
 Phone/telefon: +47 920 37 221
 
 Email: erik.mehl@kristiania.no
+
+[0]: https://thegrid.ai/passion-for-sales-management/about-meom-meg/
