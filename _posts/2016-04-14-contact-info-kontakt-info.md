@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'This page is my private page on my research interests within the field of sales management. I am employed at an Norwegian business school, where I do research on and teach sales management topics. '
-datePublished: '2016-05-04T07:32:08.554Z'
-dateModified: '2016-05-04T07:32:00.424Z'
+datePublished: '2016-05-04T07:32:31.299Z'
+dateModified: '2016-05-04T07:32:27.619Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-contact-info-kontakt-info.md
@@ -28,7 +28,6 @@ This page is my private page on my research interests within the field of sales 
 
 You can read more about me [here][0], and my contact info can be found below.
 
-  
 Contact info / Kontakt info:
 
 Erik Mehl
