@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Why a too strong alignment of marketing- and sales departments could hurt the company
-datePublished: '2016-05-05T09:24:55.124Z'
-dateModified: '2016-05-04T07:43:04.397Z'
+datePublished: '2016-05-05T09:40:13.821Z'
+dateModified: '2016-05-05T09:40:11.318Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-13-why-a-too-strong-alignment-of-marketing-and-sales-departmen.md
@@ -21,8 +21,9 @@ url: why-a-too-strong-alignment-of-marketing-and-sales-departmen/index.html
 _type: Article
 
 ---
-**Why a too strong alignment of marketing- and sales departments could hurt the company**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73175667-43d3-4511-83c8-c82e4cd87967.jpg)
+
+**Why a too strong alignment of marketing- and sales departments could hurt the company**
 
 A lot has been written about the integration of marketing- and sales functions, but there seems to be no consensus about what works best. From what I have seen in various blog posts most of them argue for tighter integration between the two (similar levels) or that sales should align with the marketing strategy of the firm (different levels). I respectfully disagree with both. 
 
@@ -56,3 +57,7 @@ I see two ways a firm can support this concept;
 **Role clarification:** When both departments understand their part, both as a unique entity and how they can contribute to the common good of the firm the hostility between the departments might be reduced. When both understand that they are not in competing roles, the possibility for knowledge exchange might be possible. 
 
 **Organization:** Another thing that might add to this understanding is to have a joint VP responsible for both sales and marketing. The problem here is, of course, the discussion if this position should be given to someone with a sales- or marketing background. Which might hurt the relationship even more. But if this VP of sales- and marketing (or marketing- and sales) managed to focus on both the alignment and the separation of the departments the connection with the firm strategy might be strengthened.
+
+[Back to main page][0]
+
+[0]: https://thegrid.ai/passion-for-sales-management/
