@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: About me/om meg
-datePublished: '2016-05-05T09:21:21.006Z'
-dateModified: '2016-05-05T09:21:04.071Z'
+datePublished: '2016-05-05T09:23:04.332Z'
+dateModified: '2016-05-05T09:22:48.062Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-about-meom-meg.md
@@ -21,7 +21,7 @@ url: about-meom-meg/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d0ddf56-f7e9-432a-bb93-b349ccb20f3d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0df09ca-060c-41ef-83c0-c78139802628.jpg)
 
 About me/om meg
 
