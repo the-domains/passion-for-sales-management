@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: About me/om meg
-datePublished: '2016-05-05T09:23:04.332Z'
-dateModified: '2016-05-05T09:22:48.062Z'
+description: About me
+datePublished: '2016-05-05T09:26:13.284Z'
+dateModified: '2016-05-05T09:26:01.741Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-about-meom-meg.md
@@ -23,7 +23,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0df09ca-060c-41ef-83c0-c78139802628.jpg)
 
-About me/om meg
+About me
 
 My name is Erik Mehl, and I am a lecturer in sales management at Kristiania University College and a P.hD. student at UiS Business School / University of Stavanger in Norway. 
 
