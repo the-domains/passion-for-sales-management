@@ -5,12 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: About me/om meg
-datePublished: '2016-05-03T09:56:23.922Z'
-dateModified: '2016-05-03T09:56:23.344Z'
+datePublished: '2016-05-05T09:21:21.006Z'
+dateModified: '2016-05-05T09:21:04.071Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-about-meom-meg.md
-published: true
 authors: []
 publisher:
   name: null
@@ -22,8 +21,9 @@ url: about-meom-meg/index.html
 _type: Article
 
 ---
-About me/om meg
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d0ddf56-f7e9-432a-bb93-b349ccb20f3d.jpg)
+
+About me/om meg
 
 My name is Erik Mehl, and I am a lecturer in sales management at Kristiania University College and a P.hD. student at UiS Business School / University of Stavanger in Norway. 
 
@@ -36,6 +36,8 @@ In 1993, I was one of three co- founders of one of the first Multimedia companie
 In 2012, I changed my job and started teaching sales and working on my P.hD. in sales management.
 
 I also work as a consultant, board member, and a conference speaker.
+
+[Back to front page][0]
 
 **Om meg**
 
@@ -50,3 +52,7 @@ I 1993 var jeg en av tre gründere av Norges første multimedia selskap, Mogul M
 I 2012 gikk jeg over i en akademisk stilling hvor jeg foreleser i salgsrelaterte emner hvor jeg også noen år var faglig ansvarlig for Bachelor studiet i Markedsføring og Salgsledelse. Ved siden azv min doktorgrad i salgsledelse.
 
 Jeg jobber også i tillegg som konsulent, styremedlem og foredragsholder.
+
+[Tilbake til hovedsiden][0]
+
+[0]: https://thegrid.ai/passion-for-sales-management/
