@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'This page is my private page on my research interests within the field of sales management. I am employed at an Norwegian business school, where I do research on, and teach sales management topics. '
-datePublished: '2016-05-06T11:40:36.437Z'
-dateModified: '2016-05-06T11:40:23.257Z'
+description: 'This page is my private page on my research interests within the field of sales management. I am employed at an Norwegian business school, where I do research on, and teach, sales management topics. '
+datePublished: '2016-05-06T11:43:41.944Z'
+dateModified: '2016-05-06T11:42:40.720Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-contact-info-kontakt-info.md
@@ -23,7 +23,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9668760-08b6-41f5-ab6e-4cc6c51e1122.jpg)
 
-This page is my private page on my research interests within the field of sales management. I am employed at an Norwegian business school, where I do research on, and teach sales management topics. 
+This page is my private page on my research interests within the field of sales management. I am employed at an Norwegian business school, where I do research on, and teach, sales management topics. 
 
 You can read more about me [here][0], and my contact info can be found [here][1].
 
