@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Contact info / Kontakt info: '
-datePublished: '2016-05-06T12:17:53.681Z'
-dateModified: '2016-05-06T12:17:40.286Z'
+datePublished: '2016-05-06T12:23:08.520Z'
+dateModified: '2016-05-06T12:23:04.415Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-contact-info-kontakt-info.md
@@ -30,3 +30,7 @@ Email: erik.mehl@kristiania.no
 Linkedin: https://no.linkedin.com/in/erikmehl
 
 Twitter: https://twitter.com/erikmehl
+
+[Tilbake til hovedsiden][0]
+
+[0]: https://thegrid.ai/passion-for-sales-management/
