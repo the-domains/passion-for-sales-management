@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-06T15:39:59.089Z'
-dateModified: '2016-05-06T15:39:54.493Z'
+datePublished: '2016-05-06T18:09:23.250Z'
+dateModified: '2016-05-06T18:09:15.365Z'
 title: Why a too strong alignment of marketing- and sales departments could hurt the company
 author:
   - name: ''
