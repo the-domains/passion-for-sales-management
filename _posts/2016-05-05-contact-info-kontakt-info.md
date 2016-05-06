@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Contact info / Kontakt info: '
-datePublished: '2016-05-06T15:31:27.854Z'
-dateModified: '2016-05-06T15:31:24.248Z'
+description: Contact info / Kontakt info
+datePublished: '2016-05-06T15:43:40.491Z'
+dateModified: '2016-05-06T15:43:35.144Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-contact-info-kontakt-info.md
@@ -21,7 +21,7 @@ url: contact-info-kontakt-info/index.html
 _type: WebPage
 
 ---
-Contact info / Kontakt info: 
+**Contact info / Kontakt info**
 
 Erik Mehl Phone/telefon: +47 920 37 221 
 
