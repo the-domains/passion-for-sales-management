@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Why a too strong alignment of marketing- and sales departments could hurt the company
-datePublished: '2016-05-06T12:45:31.453Z'
-dateModified: '2016-05-06T12:45:14.136Z'
+datePublished: '2016-05-06T12:46:06.114Z'
+dateModified: '2016-05-06T12:45:59.934Z'
 title: ' '
 author:
   - name: ''
