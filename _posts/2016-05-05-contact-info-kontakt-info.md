@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Contact info / Kontakt info: '
-datePublished: '2016-05-06T12:08:50.108Z'
-dateModified: '2016-05-06T12:08:39.626Z'
+datePublished: '2016-05-06T12:17:53.681Z'
+dateModified: '2016-05-06T12:17:40.286Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-contact-info-kontakt-info.md
