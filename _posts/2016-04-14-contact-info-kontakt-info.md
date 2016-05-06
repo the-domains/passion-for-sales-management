@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'This page is my private page on my research interests within the field of sales management. I am employed at an Norwegian business school, where I do research on, and teach, sales management topics. '
-datePublished: '2016-05-06T11:43:41.944Z'
-dateModified: '2016-05-06T11:42:40.720Z'
+datePublished: '2016-05-06T11:49:10.842Z'
+dateModified: '2016-05-06T11:49:06.325Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-contact-info-kontakt-info.md
@@ -17,8 +18,7 @@ publisher:
   url: null
   favicon: null
 starred: true
-url: contact-info-kontakt-info/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9668760-08b6-41f5-ab6e-4cc6c51e1122.jpg)
