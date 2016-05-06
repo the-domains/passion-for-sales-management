@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'This page is my private page on my research interests within the field of sales management. I am employed at an Norwegian business school, where I do research on, and teach sales management topics. '
-datePublished: '2016-05-06T11:40:15.648Z'
-dateModified: '2016-05-06T11:40:05.421Z'
+datePublished: '2016-05-06T11:40:36.437Z'
+dateModified: '2016-05-06T11:40:23.257Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-contact-info-kontakt-info.md
