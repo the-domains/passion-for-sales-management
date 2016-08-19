@@ -1,7 +1,18 @@
+layout_spectrum: 0.22812372958287597
+typography_spectrum: 0.42721409583464265
+color:
+  brandColors:
+    - '#f6f1ed'
+    - '#d5ccc5'
+    - '#814825'
+    - '#b69a83'
+    - '#26140a'
+  brandStrength: 0.0625
+  lightness: 0.5625
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 name: Passion for Sales Management
 favicon: null
-layout_spectrum: 0.92535
-typography_spectrum: 0.83681
 title: Passion for Sales Management and research
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#f6f1ed'
-    - '#d5ccc5'
-    - '#814825'
-    - '#b69a83'
-    - '#26140a'
-  brandStrength: 0.0625
-  lightness: 0.5625
-  saturation: 0.6875
-  rhythmicContrast: 0.75
 purpose: []
