@@ -19,6 +19,9 @@ analytics:
   google: UA-77364116-1
   facebook: null
   twitter: null
+author:
+  name: Erik Mehl
+  email: erik.mehl@kristiania.no
 name: Passion for Sales Management
 cta:
   domain: null
