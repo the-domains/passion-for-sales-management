@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T22:58:34.575Z'
+datePublished: '2016-08-20T23:02:11.734Z'
 sourcePath: >-
   _posts/2016-04-13-why-a-too-strong-alignment-of-marketing-and-sales-departmen.md
 inFeed: true
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-20T22:58:33.921Z'
+dateModified: '2016-08-20T23:02:11.118Z'
 title: >-
   Why a too strong alignment of marketing- and sales departments could hurt the
   company
@@ -21,7 +21,7 @@ description: >-
   I have seen in various blog posts, most of them argue for tighter integration
   between the two (similar levels), or that sales should align with the
   marketing strategy of the firm (different levels). I respectfully disagree
-  with both. Read more…
+  with both.
 inLanguage: null
 inNav: false
 starred: false
@@ -29,10 +29,10 @@ url: why-a-too-strong-alignment-of-marketing-and-sales-departmen/index.html
 _type: Article
 
 ---
-## Why a too strong alignment of marketing- and sales departments could hurt the company
+# Why a too strong alignment of marketing- and sales departments could hurt the company
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fddde5baa9ed44125755c006f75674a0836292d.jpg)
 
-A lot has been written about the integration of marketing- and sales functions, but there seems to be no consensus about what works best. From what I have seen in various blog posts, most of them argue for tighter integration between the two (similar levels), or that sales should align with the marketing strategy of the firm (different levels). I respectfully disagree with both. Read more...
+A lot has been written about the integration of marketing- and sales functions, but there seems to be no consensus about what works best. From what I have seen in various blog posts, most of them argue for tighter integration between the two (similar levels), or that sales should align with the marketing strategy of the firm (different levels). I respectfully disagree with both.
 
 In much of the strategy and leadership research there has in a long time been a discussion towards a disruptive way of thinking where strategy is no longer set rigidly by leaders, but where they rather establish boundaries within which strategy can emerge. In such an organization, the need for flexibility to make decisions on a lower organizational level is crucial, and one way of doing this is a focus on specialized functions well anchored with a clear vision and strategy.
 
