@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T10:17:42.881Z'
+datePublished: '2016-08-21T17:52:29.682Z'
 sourcePath: _posts/2016-04-14-contact-info-kontakt-info.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-21T10:17:42.457Z'
+dateModified: '2016-08-21T17:52:29.168Z'
 title: ''
 publisher: {}
 description: >-
@@ -24,7 +24,7 @@ _type: Blurb
 
 This page is my private page on my research interests within the field of sales management. I am employed at an Norwegian business school, where I do research on, and teach, sales management topics.
 
-You can read more about me [here][0], and my contact info can be found [here][1].
+You can read more about me _[here][0]_, and my contact info can be found _[here][1]_.
 
 [0]: https://thegrid.ai/passion-for-sales-management/about-meom-meg "here"
 [1]: https://thegrid.ai/passion-for-sales-management/contact-info-kontakt-info "here"
