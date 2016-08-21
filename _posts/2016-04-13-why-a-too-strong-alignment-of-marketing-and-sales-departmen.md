@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T20:37:40.497Z'
+datePublished: '2016-08-20T20:39:45.801Z'
 sourcePath: >-
   _posts/2016-04-13-why-a-too-strong-alignment-of-marketing-and-sales-departmen.md
 inFeed: true
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-20T20:37:39.406Z'
+dateModified: '2016-08-20T20:39:45.183Z'
 title: >-
   Why a too strong alignment of marketing- and sales departments could hurt the
   company
@@ -28,7 +28,7 @@ _type: Article
 
 **Why a too strong alignment of marketing- and sales departments could hurt the company**
 
-A lot has been written about the integration of marketing- and sales functions, but there seems to be no consensus about what works best. From what I have seen in various blog posts most of them argue for tighter integration between the two (similar levels) or that sales should align with the marketing strategy of the firm (different levels). I respectfully disagree with both.
+A lot has been written about the integration of marketing- and sales functions, but there seems to be no consensus about what works best. From what I have seen in various blog posts, most of them argue for tighter integration between the two (similar levels), or that sales should align with the marketing strategy of the firm (different levels). I respectfully disagree with both.
 
 In much of the strategy and leadership research there has in a long time been a discussion towards a disruptive way of thinking where strategy is no longer set rigidly by leaders, but where they rather establish boundaries within which strategy can emerge. In such an organization, the need for flexibility to make decisions on a lower organizational level is crucial, and one way of doing this is a focus on specialized functions well anchored with a clear vision and strategy.
 
